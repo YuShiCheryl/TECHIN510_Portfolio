@@ -5,7 +5,7 @@ This is a personal portfolio website built using Streamlit. It showcases my skil
 ## Features
 
 - Responsive design
-- Interactive sections for About Me, Skills, and Projects
+- Showcase 6 Projects
 - Modern UI with custom styling
 - Easy to customize and update
 
