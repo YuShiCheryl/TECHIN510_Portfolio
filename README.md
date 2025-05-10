@@ -18,7 +18,7 @@ This is a personal portfolio website built using Streamlit. It showcases my skil
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/YuShiCheryl/TECHIN510_Portfolio
 cd portfolio
 ```
 
