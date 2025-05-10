@@ -43,19 +43,3 @@ streamlit run app.py
 
 The website will open in your default web browser at `http://localhost:8501`.
 
-## Customization
-
-To customize the portfolio for your own use:
-
-1. Update the content in `app.py` with your personal information
-2. Replace the placeholder image with your own profile picture
-3. Modify the skills and projects sections to reflect your experience
-4. Update the contact information with your own details
-
-## Deployment
-
-This portfolio can be easily deployed to Streamlit Cloud or any other hosting platform that supports Python applications.
-
-## License
-
-This project is open source and available under the MIT License. 
